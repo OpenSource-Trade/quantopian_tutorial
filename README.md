@@ -21,3 +21,9 @@ Dynamic Security Selection
 
 ### LESSON 1 Introduction
 ### [LESSON 2 Creating a Pipeline](./TUTORIAL2/LESSON2.ipynb)
+### [LESSON 3 Factors](./TUTORIAL2/LESSON3.ipynb)
+### [LESSON 4 Combining Factors](./TUTORIAL2/LESSON4.ipynb)
+### [LESSON 5 Filters](./TUTORIAL2/LESSON5.ipynb)
+### [LESSON 6 Combining Filters](./TUTORIAL2/LESSON6.ipynb)
+### [LESSON 7 Masking](./TUTORIAL2/LESSON7.ipynb)
+### [LESSON 7 Classifiers](./TUTORIAL2/LESSON8.ipynb)
