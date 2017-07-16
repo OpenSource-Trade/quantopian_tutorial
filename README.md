@@ -26,4 +26,4 @@ Dynamic Security Selection
 ### [LESSON 5 Filters](./TUTORIAL2/LESSON5.ipynb)
 ### [LESSON 6 Combining Filters](./TUTORIAL2/LESSON6.ipynb)
 ### [LESSON 7 Masking](./TUTORIAL2/LESSON7.ipynb)
-### [LESSON 7 Classifiers](./TUTORIAL2/LESSON8.ipynb)
+### [LESSON 8 Classifiers](./TUTORIAL2/LESSON8.ipynb)
